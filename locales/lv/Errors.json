@@ -1,0 +1,13 @@
+{
+  "INVALID_SIGN_IN": "Nepareiza e-pasta adrese vai parole.",
+  "INVALID_TRANSFER": "Pārskaitījums nevarēja tikt izpildīts.",
+  "INVALID_USER_REGISTRATION": "Konts ar šo e-pasta adresi jau ir reģistrēts.",
+  "INVALID_TAN": "Nederīgs TAN numurs.",
+  "TOKEN_VALIDATION_FAILED": "Kaut kas nogāja greizi.",
+  "DUPLICATE_ACCOUNT_REGISTRATION": "Konts ar šo numuru jau ir reģistrēts.",
+  "USER_NOT_FOUND": "Lietotājs netika atrasts.",
+  "ACCOUNT_SUSPENDED": "Konta darbība ir apturēta",
+  "ACCOUNT_DELETED": "Konts tika izdzēsts",
+  "REQUEST_EXPIRED": "Lēns savienojums. Lūdzu, atkārtoti ielādē lapu un mēģini vēlreiz.",
+  "NO_RESPONSE_FROM_SERVER": "Kaut kas nogāja greizi. Mēs strādājam pie tā."
+}
