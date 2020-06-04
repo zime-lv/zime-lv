@@ -1,6 +1,6 @@
 {
   "Currency": "Currency",
-  "Name": "Name",
+  "Abbr": "Code",
   "Region": "Region",
   "Rate": "Rate"
 }
