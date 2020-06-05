@@ -2,5 +2,6 @@
   "Currency": "Currency",
   "Abbr": "Code",
   "Region": "Region",
-  "Rate": "Rate"
+  "Rate": "Rate",
+  "Loading...": "Loading currencies..."
 }
