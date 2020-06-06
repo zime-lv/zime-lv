@@ -8,5 +8,6 @@
   "SAME_PASSWORD_RESET": "You entered your current password",
   "SESSION_TIMED_OUT": "For security reasons session expired",
   "SEND_MESSAGE_SUCCESS": "Message was successfully sent.",
-  "RECONNECTING": "Reconnecting..."
+  "RECONNECTING": "Reconnecting...",
+  "REQUEST_EXPIRED": "Please reload the page"
 }

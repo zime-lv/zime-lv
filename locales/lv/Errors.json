@@ -9,6 +9,5 @@
   "USER_NOT_FOUND": "Lietotājs netika atrasts.",
   "ACCOUNT_SUSPENDED": "Konta darbība ir apturēta",
   "ACCOUNT_DELETED": "Konts tika izdzēsts",
-  "REQUEST_EXPIRED": "Lūdzu, atkārtoti ielādē lapu",
   "NO_RESPONSE_FROM_SERVER": "Kaut kas nogāja greizi. Mēs strādājam pie tā."
 }
