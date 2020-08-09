@@ -1,0 +1,2 @@
+(this["webpackJsonplocal-currency-client"]=this["webpackJsonplocal-currency-client"]||[]).push([[62],{580:function(c,e,p){c.exports=p.p+"static/media/applypatch-msg.ce562e08.sample"}}]);
+//# sourceMappingURL=62.6727e2f4.chunk.js.map
